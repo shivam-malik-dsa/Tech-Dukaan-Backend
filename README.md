@@ -138,6 +138,18 @@ http://127.0.0.1:8000/docs
 
 --------------------------------------------------
 
+## API Documentation
+
+Swagger UI available at:
+
+http://127.0.0.1:8000/docs
+
+### Swagger Interface
+
+![Swagger UI](images/swagger-ui.png)
+
+--------------------------------------------------
+
 Author
 
 Shivam Malik
